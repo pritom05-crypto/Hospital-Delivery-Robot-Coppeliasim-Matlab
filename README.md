@@ -146,3 +146,24 @@ Simulation demonstrates:
 ---
 
 ## Project Structure
+Hospital-Delivery-Robot-Coppeliasim-Matlab
+│
+├── simulation
+│ └── Indoor_Scene.ttt
+│
+├── matlab_code
+│ ├── main.m
+│ ├── robot.m
+│ ├── core_routine.m
+│ ├── arm_routine.m
+│ ├── forward_kinematics.m
+│ └── inverse_kinematics.m
+│
+├── results
+│ ├── output_images
+│
+├── docs
+│ ├── project_proposal.pdf
+│ └── project_report.pdf
+│
+└── README.md
