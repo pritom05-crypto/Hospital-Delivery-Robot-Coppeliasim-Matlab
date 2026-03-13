@@ -164,7 +164,7 @@ Hospital-Delivery-Robot-Coppeliasim-Matlab
 │ ├── output_images
 │
 ├── docs
-│ ├── project_proposal.pdf
-│ └── project_report.pdf
+│ ├── project_presentation.pdf
+│ 
 │
 └── README.md
